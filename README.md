@@ -27,6 +27,8 @@ General Angular Topics:
 * [Blog of Tomas Trajan](https://tomastrajan.medium.com/)
 * [Blog of Kevin Kreuzer](https://kevinkreuzer.medium.com/)
 * [WebDave Twitch Stream](https://www.twitch.tv/webdave_de?lang=de) however mostly German
+* [Blog of Netanel Basal](https://netbasal.com/tagged/blog). Also very recommeded his [open source work](https://github.com/ngneat)
+* [Blog of Tim Deschryver](https://timdeschryver.dev/blog)
 
 Communities
 * [Angular community on Discord](https://discord.gg/ehgWuukn)
