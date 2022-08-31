@@ -24,6 +24,7 @@ Currently mainly Angular topics are covered. However this list is open to extend
 
 #### State management
 * NgRx [best practices](https://tomastrajan.medium.com/level-up-your-ngrx-skills-with-10-time-tested-best-practices-6c837fb14877) and [Demo Repository](https://github.com/tomastrajan/angular-ngrx-material-starter) by Tomas Trajan.
+* NgRx [Tips] (https://dev.to/this-is-angular/ngrx-tips-i-needed-in-the-beginning-4hno#apply-single-responsibility-principle)
 * [Local state management](https://github.com/BioPhoton/research-reactive-ephemeral-state-in-component-oriented-frontend-frameworks) by Michael Hladky.
 * Local state management handling [ RxAngular/state](https://github.com/rx-angular/rx-angular/blob/main/libs/state/README.md)
 
